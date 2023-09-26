@@ -1,6 +1,6 @@
 # Simple-Pong
 
-**This is a small 2 Player game of pong made using unity**
+**This is the first game I made with the aim of learning more about the Unity engine**
 
 -------
 | Script       | Explanation                                                     |
